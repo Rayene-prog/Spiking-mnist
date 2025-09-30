@@ -32,7 +32,7 @@ t10k-labels-idx1-ubyte.gz
 
 Décompressez-les (clic droit → “Extraire ici” ou via un outil comme 7-Zip/WinRAR) afin d’obtenir les fichiers .ubyte.
 
-Option 2 : Téléchargement via terminal
+🔹 Option 2 : Téléchargement via terminal
 Linux / macOS
 cd SpikingConvNet-main/data
 
