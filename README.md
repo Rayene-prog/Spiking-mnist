@@ -64,7 +64,7 @@ Exemple :
 
 from utils import load_encoded_MNIST
 X_tr, y_tr, X_te, y_te = load_encoded_MNIST(data_prop=1.0, nb_timesteps=30)
-# X_* : (N, T, 2, 28, 28), y_* : labels 0–9
+#### X_* : (N, T, 2, 28, 28), y_* : labels 0–9
 
 ##  Entraînement (STDP)
 
